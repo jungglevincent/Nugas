@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(0, 0, 0);
+}
+
+#id1 h2{
+    font-size: 30pt;
+    background-color: aliceblue;
+    margin-bottom: 2.5cm;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.kelas1{
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+.kelas2{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+video(
+    width="600";
+    text-align center;
+)
